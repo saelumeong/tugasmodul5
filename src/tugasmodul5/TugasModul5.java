@@ -16,7 +16,7 @@ public class TugasModul5 {
      */
     public static void main(String[] args) {
         System.out.println("Kelompok 47");
-        class1 c1 = new class1("Petrick Jubel Eliezer","Aldio Bangkit W","21120117120028","21120117120034");
+        class1 c1 = new class1("Petrick Star Jubel Eliezer","Aldio Bangkit W","21120117120028","21120117120034");
         System.out.println(c1.namakesatu());
         System.out.println(c1.namakedua());
         //comment felix
