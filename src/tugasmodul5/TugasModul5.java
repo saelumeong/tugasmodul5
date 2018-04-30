@@ -19,7 +19,7 @@ public class TugasModul5 {
         class1 c1 = new class1("Petrick Jubel Eliezer","Aldio Bangkit W","21120117120028","21120117120034");
         System.out.println(c1.namakesatu());
         System.out.println(c1.namakedua());
-        
+        //comment felix
         class2 c2 = new class2();
         System.out.println(c2.memesan());
         // TODO code application logic here
